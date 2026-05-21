@@ -1,6 +1,6 @@
 # skill-creator-zh
 
-`skill-creator-zh` 是 `skill-creator` 的中文安全化与能力等价性增强版本，用于创建新 skill、改进已有 skill、评估 skill 表现、运行 eval/benchmark、优化 skill description，并验证翻译或本地化后的 skill 是否保持原能力。
+`skill-creator-zh` 是 `skill-creator` 的中文安全化与能力等价性版本，用于创建新 skill、改进已有 skill、评估 skill 表现、运行 eval/benchmark、优化 skill description，并验证翻译或本地化后的 skill 是否保持原能力。
 
 本仓库保留原 `skill-creator` 的核心工作流和文件结构，同时将正文说明中文化，并额外强调工程可迁移性、结构化输入校验、失败路径测试与相邻 skill 的触发关系。
 
@@ -158,5 +158,3 @@ scripts/example.py
 ## License
 
 本仓库随附 `LICENSE.txt`，采用 Apache License 2.0。
-
-请在再分发或修改时保留原始 `skill-creator` 标注，并明确说明自己的修改。
