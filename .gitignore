@@ -1,0 +1,16 @@
+# Local backups and temporary files
+*.bak-*
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime outputs
+*-workspace/
+eval_set*.json
