@@ -22,7 +22,7 @@ skill-creator
 
 - 创建新 skill；
 - 修改、优化和重构已有 skill；
-- 将英文 skill 安全中文化或本地化；
+- 将英文 skill 中文化；
 - 检查翻译后的 skill 是否保持原版能力；
 - 设计 evals、assertions 和 benchmark；
 - 比较不同 skill 版本；
@@ -56,17 +56,7 @@ skill-creator-zh/
 
 ## 安装方式
 
-将本目录放入 Hanako 的 skills 目录，例如：
-
-```text
-C:\Users\<you>\.hanako\skills\skill-creator-zh
-```
-
-新会话或刷新 skill 加载后，应能看到：
-
-```text
-skill-creator-zh
-```
+在你的agent中并输入"安装这个skill。https://github.com/Magnemomet/skill-creator-zh/"
 
 ## 使用示例
 
@@ -157,4 +147,4 @@ scripts/example.py
 
 ## License
 
-本仓库随附 `LICENSE.txt`，采用 Apache License 2.0。
+采用 Apache License 2.0。
